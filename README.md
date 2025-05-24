@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 
 <h1 align="center">Hi, I'm Akshay Tiwari</h1>
@@ -31,7 +31,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
 
 ---
 
