@@ -16,7 +16,8 @@
 - MCA'25 | Associate Software Developer | Placement Coordinator  
 - Passionate about building scalable web applications and seamless user experiences  
 - I enjoy learning new technologies and solving real-world problems  
-- Looking for full-time/entry-level roles as ha **MERN Stack Developer**  
+- Eager to contribute my skills and grow as a Full-Time Software Developer / Intern, where I can create meaningful impact while continuously learning and evolving.
+- **MERN Stack Developer**  
 
 ---
 
