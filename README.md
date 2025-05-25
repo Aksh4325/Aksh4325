@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aksh4325/Aksh4325/main/banner.jpg" alt="Akshay Tiwari GitHub Banner" />
+</p>
 
 
 <h1 align="center">Hi, I'm Akshay Tiwari</h1>
