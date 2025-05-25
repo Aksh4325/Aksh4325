@@ -64,6 +64,8 @@
 
 > “Code is like humor. When you have to explain it, it’s bad.”
 
+> "Code with purpose, build with passion."
+
 ---
 
 ### 📫 Connect With Me
@@ -73,5 +75,3 @@
 
 ---
 
-
-> "Code with purpose, build with passion."
