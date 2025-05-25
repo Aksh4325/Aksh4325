@@ -15,7 +15,7 @@
 ---
 
 ### 🧑‍💻 About Me:
-- MCA'25 | Associate Software Developer | Placement Coordinator  
+- MCA'25 | Associate Software Developer | MCA Department Placement Coordinator (2024-2025) 
 - Passionate about building scalable web applications and seamless user experiences  
 - I enjoy learning new technologies and solving real-world problems  
 - Eager to contribute my skills and grow as a Full-Time Software Developer / Intern, where I can create meaningful impact while continuously learning and evolving.
@@ -49,27 +49,29 @@
 
 ---
 
-### 🔥 Projects (Sample):
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| **E-commerce Platform** | MERN Stack | AI/ML-based recommendations, cloud-hosted scalable platform |
-| **Blogify** | React, Node, MongoDB | Full CRUD blog app with user login |
-| **TaskMate** | React + Firebase | To-do app with real-time sync |
+### 🚀 Recent Projects
 
-> Add real project repo links once live!
-
----
-
-### 🤝 Let's Connect:
-
-[![LinkedIn](https://img.shields.io/badge/-Akshay%20Tiwari-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-tiwari-296411326/)
-[![GitHub](https://img.shields.io/badge/-Aksh4325-black?style=flat-square&logo=github)](https://github.com/Aksh4325)
+- **Dream E-commerce Platform** — MERN stack based shopping experience  
+- **Crunch Fitness App** — Track workouts and progress  
+- **WhatsApp Chat Analyzer** — Data insights from exported chats  
+- **Live Chat App** — Real-time socket communication  
+- **Advanced Calendar** — Schedule and manage tasks visually
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
-</p>
+### ✨ Quote I Live By
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: [linkedin.com/in/akshay-tiwari-296411326](https://www.linkedin.com/in/akshay-tiwari-296411326)
+- GitHub: [github.com/Aksh4325](https://github.com/Aksh4325)
+
+---
+
 
 > "Code with purpose, build with passion."
