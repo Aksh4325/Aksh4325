@@ -70,7 +70,7 @@
 
 ### 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/akshay-tiwari-296411326](https://www.linkedin.com/in/akshay-tiwari-296411326)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-tiwari-296411326/): [linkedin.com/in/akshay-tiwari-296411326](https://www.linkedin.com/in/akshay-tiwari-296411326)
 - GitHub: [github.com/Aksh4325](https://github.com/Aksh4325)
 
 ---
