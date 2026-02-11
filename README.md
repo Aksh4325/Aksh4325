@@ -10,6 +10,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=true&lines=Transforming+Data+into+Actionable+Insights+%F0%9F%93%88;Python+%7C+SQL+%7C+Power+BI+Expert+%F0%9F%94%A5;Building+Data-Driven+Solutions+%F0%9F%92%BC" alt="Typing SVG">
+
+  
 </p>
 
 
