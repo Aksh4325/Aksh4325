@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aksh4325/Aksh4325/main/Banner.jpg" alt="Akshay Tiwari GitHub Banner" width="100%" />
+  <img src="https://https://github.com/Aksh4325/Aksh4325/blob/main/Bannner.jpeg" alt="Akshay Tiwari GitHub Banner" width="100%" />
 </p>
 
 
