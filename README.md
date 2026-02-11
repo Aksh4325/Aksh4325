@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aksh4325/Aksh4325/main/banner.jpg" alt="Akshay Tiwari GitHub Banner" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aksh4325/Aksh4325/main/banner.jpg" alt="Akshay Tiwari GitHub Banner" width="100%" />
@@ -35,7 +33,9 @@
 *Programming & Query Languages:*
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=orange)
+
 
 *Data Analysis & Manipulation:*
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -62,6 +62,9 @@
 *Tools & Platforms:*
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 
@@ -147,9 +150,8 @@ SQL | Python | Power BI
 - 🎓 *Google Data Analytics Professional Certificate* - Coursera
 - 🎓 *Microsoft Power BI Data Analyst Associate (PL-300)* - Microsoft
 - 🎓 *SQL for Data Science* - Coursera/DataCamp
-- 🎓 *Python for Data Science and Machine Learning Bootcamp* - Udemy
+- 🎓 *Python for Data Science and Machine Learning Bootcamp* - Open-Source 
 - 🎓 *Advanced Excel for Data Analysis* - LinkedIn Learning
-- 🎓 *Tableau Desktop Specialist* - Tableau
 
 ---
 
@@ -227,10 +229,4 @@ SQL | Python | Power BI
 
 
 
-### 📫 Connect With Me
-
-- LinkedIn: [linkedin.com/in/akshay-tiwari-296411326](https://www.linkedin.com/in/akshay-tiwari-296411326)
-- GitHub: [github.com/Aksh4325](https://github.com/Aksh4325)
-- Mail : [tiwariaksh25@gmail.com](tiwariaksh25@gmail.com)
----
 
