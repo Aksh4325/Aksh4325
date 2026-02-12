@@ -204,11 +204,11 @@ Focus was placed not only on analysis but also on delivering measurable insights
 
 ---
 
-### 📜 Certifications:
+### 📜 Certificates & Training:
 
-- 🎓 *Google Data Analytics Professional Certificate* - Coursera
-- 🎓 *Microsoft Power BI Data Analyst Associate (PL-300)* - Microsoft
-- 🎓 *SQL for Data Science* - Coursera/DataCamp
+- 🎓 *Google Data Analytics Professional Course* - Google 
+- 🎓 *Microsoft Power BI Data Analyst Associate* - Publishesd Document-300 
+- 🎓 *SQL for Data Science* - DataCamp
 - 🎓 *Python for Data Science and Machine Learning Bootcamp* - Open-Source 
 - 🎓 *Advanced Excel for Data Analysis* - LinkedIn Learning
 
