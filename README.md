@@ -98,52 +98,94 @@
 
 ### 🚀 Featured Projects:
 
-#### 📈 *Sales Performance Analytics Dashboard*
-Power BI | SQL | Excel
-- Designed and developed comprehensive sales dashboard tracking revenue, customer acquisition, and regional performance
-- Integrated data from multiple sources (CRM, ERP) using advanced SQL queries
-- Identified key trends and patterns leading to strategic business recommendations
-- *Key Metrics:* Revenue tracking, Customer segmentation, Product performance analysis, Regional sales comparison
-- *Impact:* Provided actionable insights that influenced quarterly business strategy
 
-#### 🛒 *E-Commerce Customer Behavior Analysis*
-Python | Pandas | Matplotlib | Seaborn
-- Analyzed customer purchase patterns from 500K+ transactions using Python
-- Performed RFM (Recency, Frequency, Monetary) analysis for customer segmentation
-- Built predictive models to identify high-value customers with 85% accuracy
-- Created comprehensive visualization reports for stakeholder presentations
-- *Technologies:* Python, Pandas, Scikit-learn, Jupyter Notebook, Statistical Analysis
+## 🏥 AI-Assisted Clinical Risk Analysis – Heart Readmission Prediction  
+**Tools & Technologies:** Python (Pandas, Scikit-learn), SQL, Matplotlib  
 
-#### 💳 *Customer Churn Prediction Model*
-Python | Machine Learning | SQL
-- Developed ML model to predict customer churn with 82% accuracy using Logistic Regression and Random Forest
-- Performed extensive feature engineering and data preprocessing on 100K+ customer records
-- Created interactive visualization dashboards to present findings to management
-- Conducted A/B testing to validate model effectiveness
-- *Impact:* Generated insights for targeted retention strategies
+- Analyzed ~5,000 heart patient records from publicly available healthcare datasets  
+- Used SQL to filter repeat admissions and structure patient-level data  
+- Cleaned and transformed clinical variables using Pandas (missing value handling, encoding)  
+- Applied AI-assisted feature selection to identify key drivers of 30-day readmissions  
+- Built Logistic Regression model (Scikit-learn) achieving ~78% accuracy  
+- Visualized risk distribution using Matplotlib  
 
-#### 📊 *Financial Data Analysis & Reporting*
-SQL | Excel | Tableau
-- Automated monthly financial reports using SQL stored procedures and Power Query
-- Created executive dashboards in Tableau for budget vs actual analysis
-- Performed variance analysis and trend forecasting for financial planning
-- *Key Skills:* Advanced Excel (Pivot Tables, VLOOKUP, INDEX-MATCH, Macros), SQL optimization, DAX
+**Key Metrics:** Readmission Probability Score | Model Accuracy (~78%) | High-Risk Recall  
 
-#### 📱 *Social Media Sentiment Analysis*
-Python | NLP | TextBlob | NLTK
-- Analyzed 50K+ social media comments to gauge customer sentiment and brand perception
-- Built sentiment classification model using Natural Language Processing techniques
-- Generated actionable insights and recommendations for marketing strategy
-- Created word clouds and sentiment trend visualizations
-- *Tools:* Python, NLTK, TextBlob, WordCloud, Pandas, Matplotlib
+**Business Recommendation:**  
+Suggested early follow-up scheduling and focused monitoring for high-risk patients to reduce avoidable readmissions.  
 
-#### 💹 *Inventory Optimization Analysis*
-SQL | Python | Power BI
-- Analyzed inventory turnover rates and identified slow-moving products using data analysis
-- Developed forecasting model to optimize stock levels and reduce wastage
-- Created automated alerts and notification system using Python
-- Built interactive Power BI dashboard for inventory management
-- *Business Impact:* Provided data-driven recommendations for inventory optimization
+> Independently executed end-to-end using open-source healthcare data.
+
+
+## 🛍️ Retail Customer Intelligence – AI-Driven Segmentation & Retention Strategy  
+**Tools & Technologies:** Python (Pandas), Excel, Power BI  
+
+- Analyzed ~8,000 retail transactions from publicly available dataset  
+- Calculated RFM metrics using Pandas for behavioral segmentation  
+- Identified top 20% customers contributing ~55% of total revenue  
+- Validated customer clusters to refine segmentation quality  
+- Built Power BI dashboard to track CLV and segment-wise performance  
+- Used Excel for revenue validation and reporting  
+
+**Key Metrics:** Customer Lifetime Value | Revenue Contribution Ratio | Repeat Purchase Rate  
+
+**Business Recommendation:**  
+Recommended targeted loyalty rewards for high-value customers and re-engagement campaigns for dormant segments to improve retention and revenue stability.  
+
+> Built independently using open-source retail dataset.
+
+
+## 💼 Financial Performance Analytics – Revenue Forecasting & Profitability Optimization  
+**Tools & Technologies:** SQL, Excel, Python (Time Series Analysis)  
+
+- Analyzed ~10,000 financial transaction records (3-year open dataset)  
+- Extracted revenue, cost, and churn KPIs using SQL queries  
+- Performed profitability analysis using Excel Pivot Tables and KPI dashboards  
+- Built revenue forecasting model in Python with <10% average forecast deviation  
+- Identified low-margin segments with high operational cost impact  
+
+**Key Metrics:** Revenue Growth % | Profit Margin % | Forecast Error (<10%)  
+
+**Business Recommendation:**  
+Suggested reallocating investment toward high-margin segments and optimizing cost-heavy categories to improve profitability.  
+
+> Independently developed financial analysis model using public data.
+
+
+## 🛒 E-Commerce Website Funnel & Conversion Analytics  
+**Tools & Technologies:** Google Analytics Data, SQL, Power BI  
+
+- Analyzed ~15,000 website sessions from open dataset  
+- Structured session-level and conversion data using SQL  
+- Measured conversion rate, bounce rate, and cart abandonment trends  
+- Identified major drop-off at checkout stage  
+- Built interactive Power BI funnel dashboard  
+
+**Key Metrics:** Conversion Rate | Cart Abandonment % | Traffic Source ROI  
+
+**Business Recommendation:**  
+Proposed checkout simplification and retargeting strategy to improve final conversion rate.
+
+
+## 💬 WhatsApp Chat Engagement Analytics Dashboard  
+**Tools & Technologies:** Python (Pandas), Matplotlib, Streamlit  
+
+- Processed ~25,000 exported WhatsApp messages  
+- Used Pandas for text parsing and time-based aggregation  
+- Analyzed user activity distribution, word frequency, and emoji trends  
+- Created time-series visualizations using Matplotlib  
+- Built and deployed interactive dashboard using Streamlit  
+
+**Key Metrics:** User Participation % | Peak Activity Hours | Message Distribution  
+
+**Practical Outcome:**  
+Converted unstructured chat data into structured engagement insights through a deployable analytics dashboard.
+
+
+## 💡 Project Approach
+
+All projects were independently developed using publicly available datasets to simulate real-world business scenarios.  
+Focus was placed not only on analysis but also on delivering measurable insights and actionable business recommendations.
 
 ---
 
